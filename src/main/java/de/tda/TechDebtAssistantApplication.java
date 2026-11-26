@@ -1,4 +1,4 @@
-package de.tda.tech_debt_assistant;
+package de.tda;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

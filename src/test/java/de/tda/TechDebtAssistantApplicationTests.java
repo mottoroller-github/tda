@@ -1,4 +1,4 @@
-package de.tda.tech_debt_assistant;
+package de.tda;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
